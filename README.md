@@ -7,3 +7,5 @@ Use the mouse wheel to scroll out. Check out the trees that fell off the base an
 Run like this:
 
     go run falling/main.go
+
+![Trees mid-fall onto a plain base with a triangle to add some interest](screenshot.png)
